@@ -27,7 +27,6 @@ ml-dtypes
 namex
 opt-einsum
 optree
-packagingpandas
 protobuf
 Pygments
 python-dateutil.post
@@ -48,6 +47,7 @@ typing_extensions
 tzdata
 urllib
 wrapt
+
 
 
 
