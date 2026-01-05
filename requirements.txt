@@ -11,7 +11,7 @@ gast
 google-pasta
 grpcio
 h5py
-idnatsdangerous
+itsdangerous
 Jinja
 joblib
 keras
@@ -46,3 +46,4 @@ tzdata
 urllib
 Werkzeug
 wrapt
+
