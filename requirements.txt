@@ -21,7 +21,7 @@ h5py
 joblib
 keras
 libclang
-Markdownarkdown-it-py
+markdown-it-py
 mdurl
 ml-dtypes
 namex
@@ -48,5 +48,6 @@ typing_extensions
 tzdata
 urllib
 wrapt
+
 
 
